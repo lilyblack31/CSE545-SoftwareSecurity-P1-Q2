@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
  */
 public class PermissionStats {
 
-    final static String filePath = "lists.txt";
+    final static String filePath = "listoffiles.txt";
 
     public static HashMap<String, List<String>> HashmapTextFile() {
 
