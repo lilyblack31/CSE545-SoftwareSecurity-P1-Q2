@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d564ae1-1eb2-4fe4-a894-d5a2a158b90a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjQ2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PermissionStats.java" afterDir="false" />
+    <list default="true" id="7d564ae1-1eb2-4fe4-a894-d5a2a158b90a" name="Changes" comment="Adding PermissionStats.java&#10;&#10;Adding Java program to analyze the APKs extracted by checking their AndroidManifest.xml file">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PermissionStats.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +43,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668709150269</updated>
-      <workItem from="1668709152979" duration="944000" />
+      <workItem from="1668709152979" duration="1298000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding PermissionStats.java&#10;&#10;Adding Java program to analyze the APKs extracted by checking their AndroidManifest.xml file">
+      <created>1668710187097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668710187097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding PermissionStats.java&#10;&#10;Adding Java program to analyze the APKs extracted by checking their AndroidManifest.xml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding PermissionStats.java&#10;&#10;Adding Java program to analyze the APKs extracted by checking their AndroidManifest.xml file" />
   </component>
 </project>
